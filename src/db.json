@@ -1,0 +1,171 @@
+{
+    "products": [
+        {
+            "id" : 1, 
+            "title_ru": "Легкое ожерелье «Аромат белого шиповника»",
+            "title_en": "Light necklace «Scent of white rosehip»",
+            "price_ru": 900,
+            "price_en": 10,
+            "description_ru": "Украшение из стеклянных, акриловых и пластиковых бусин, с бантом. Удобная застежка. Длина украшения 43 см",
+            "description_en": "Decoration made of glass, acrylic and plastic beads, with a bow. Convenient closure. The length of the decoration is 43 cm",
+            "img": "../src/assets/prod-1.png",
+            "category": "Jewelry"
+        },
+        {
+            "id" : 2, 
+            "title_ru": "Ожерелье «Хижина у болота»",
+            "title_en": "Necklace «Hut by the swamp»",
+            "price_ru": 1700,
+            "price_en": 18,
+            "description_ru": "Украшение из стеклянных, акриловых и пластиковых бусин, с бантом. Удобная застежка. Длина украшения 43 см",
+            "description_en": "Decoration made of glass, acrylic and plastic beads, with a bow. Convenient closure. The length of the decoration is 43 cm",
+            "img": "../src/assets/prod-2.png",
+            "category": "Jewelry"
+        },
+        {
+            "id" : 3, 
+            "title_ru": "Ожерелье «Песнь лесных нимф»",
+            "title_en": "Necklace «Song of the Forest nymphs»",
+            "price_ru": 1500,
+            "price_en": 16,
+            "description_ru": "Украшение из стеклянных, акриловых и пластиковых бусин, с бантом. Удобная застежка. Длина украшения 43 см",
+            "description_en": "Decoration made of glass, acrylic and plastic beads, with a bow. Convenient closure. The length of the decoration is 43 cm",
+            "img": "../src/assets/prod-3.png",
+            "category": "Jewelry"
+        },
+        {
+            "id" : 4, 
+            "title_ru": "Брошь из фетра «Пчела»",
+            "title_en": "Felt brooch «Bee»",
+            "price_ru": 500,
+            "price_en": 6,
+            "description_ru": "Брошь из фетра, ручная работа. Крепление - булавка. Размер 7х7 см. Отлично подойдет для объемных свитеров.",
+            "description_en": "Felt brooch, handmade. The fastening is a pin. The size is 7x7 cm. Perfect for bulky sweaters.",
+            "img": "../src/assets/prod-4.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id" : 5, 
+            "title_ru": "Ожерелье «Хрустальный замок»",
+            "title_en": "Necklace «Crystal Castle»",
+            "price_ru": 1500,
+            "price_en": 16,
+            "description_ru": "Украшение из стеклянных, акриловых и пластиковых бусин, а также, с бусинами ручной работы и металлической подвеской с бантом. Удобная застежка. Длина украшения 43 см",
+            "description_en": "Decoration made of glass, acrylic and plastic beads, as well as handmade beads and a metal pendant with a bow. Convenient closure. The length of the decoration is 43 cm",
+            "img": "../src/assets/prod-5.jpg",
+            "category": "Jewelry"
+        },
+        {
+            "id" : 6, 
+            "title_ru": "Большой пернатыш",
+            "title_en": "Big feazery",
+            "price_ru": 1500,
+            "price_en": 16,
+            "description_ru": "Игрушка ручной работы. Высота сидя - 18 см. Можно заказать в других оттенках",
+            "description_en": "A handmade toy. The sitting height is 18 cm. It can be ordered in other shades.",
+            "img": "../src/assets/prod-6.jpg",
+            "category": "Toys"
+        },
+        {
+            "id" : 7, 
+            "title_ru": "Линопринт «В ритме жизни»",
+            "title_en": "Linoprint «In the rhythm of life»",
+            "price_ru": 1000,
+            "price_en": 11,
+            "description_ru": "Ручная печать, Плотная бумага,  Возможна печать в других цветах, Размер 29,5х29,5 см",
+            "description_en": "Hand printing, Thick paper, Printing in other colors is possible, Size 29.5 x 29.5 cm",
+            "img": "../src/assets/prod-7.jpg",
+            "category": "Linocut"
+        },
+        {
+            "id" : 8, 
+            "title_ru": "Особенный линопринт «Что происходит в саду»",
+            "title_en": "Special linoprint «What happens in the garden»",
+            "price_ru": 1000,
+            "price_en": 11,
+            "description_ru": "Ручная печать, Плотная бумага,  Возможна печать в других цветах, Размер 20х29 см",
+            "description_en": "Hand printing, Thick paper, Printing in other colors is possible, Size 20х29 cm",
+            "img": "../src/assets/prod-8.jpg",
+            "category": "Linocut"
+        },
+        {
+            "id" : 9, 
+            "title_ru": "Открытка «Кружево»",
+            "title_en": "Postcard «Lace»",
+            "price_ru": 400,
+            "price_en": 5,
+            "description_ru": "Открытка из плотной бумаги. Печать произведена вручную (вырезается штамп и каждая открытка печатается отдельно). Размер открытки 16х14 см. Украшена бантиком из ленточки 🐣✨",
+            "description_en": "A postcard made of thick paper. The printing is done manually (a stamp is cut out and each postcard is printed separately). The size of the postcard is 16x14 cm. Decorated with a ribbon bow 🐣✨",
+            "img": "../src/assets/prod-9.jpg",
+            "category": "Postcards"
+        },
+        {
+            "id" : 10, 
+            "title_ru": "Фигурка из фетра «Кружево»",
+            "title_en": "Felt toy «Rat»",
+            "price_ru": 800,
+            "price_en": 9,
+            "description_ru": "Фигурка из фетра крыса. Ручная работа. Размер 11х4 см. Расцветку можно выбрать.",
+            "description_en": "A rat felt figurine. Handmade work. The size is 11x4 cm. The color can be selected.",
+            "img": "../src/assets/prod-10.jpg",
+            "category": "Toys"
+        }
+
+    ],
+    "portfolio" : [
+        {
+            "id" : 1,
+            "img" : "../src/assets/item-1.jpg",
+            "title_en": "Toys",
+            "title_ru": "Игрушки"
+        },
+        {
+            "id" : 2,
+            "img" : "../src/assets/item-2.jpg",
+            "title_en": "Postcards",
+            "title_ru": "Открытки"
+        },
+        {
+            "id" : 3,
+            "img" : "../src/assets/item-3.jpg",
+            "title_en": "Linocut",
+            "title_ru": "Линогравюра"
+        },
+        {
+            "id" : 4,
+            "img" : "../src/assets/item-4.jpg",
+            "title_en": "Postcards",
+            "title_ru": "Открытки"
+        },
+        {
+            "id" : 5,
+            "img" : "../src/assets/item-5.jpg",
+            "title_en": "Postcards",
+            "title_ru": "Открытки"
+        },
+        {
+            "id" : 6,
+            "img" : "../src/assets/item-6.jpg",
+            "title_en": "Linocut",
+            "title_ru": "Линогравюра"
+        },
+        {
+            "id" : 7,
+            "img" : "../src/assets/item-7.jpg",
+            "title_en": "Trinkets",
+            "title_ru": "Брелки"
+        },
+        {
+            "id" : 8,
+            "img" : "../src/assets/item-8.jpg",
+            "title_en": "Necklaces",
+            "title_ru": "Ожерелья"
+        },
+        {
+            "id" : 9,
+            "img" : "../src/assets/item-9.jpg",
+            "title_en": "Toys",
+            "title_ru": "Игрушки"
+        }
+    ]
+}
